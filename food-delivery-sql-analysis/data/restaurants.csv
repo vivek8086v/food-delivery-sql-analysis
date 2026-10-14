@@ -1,0 +1,26 @@
+restaurant_id,restaurant_name,city,cuisine,rating,is_active
+1,Burger Barn 1,Bengaluru,South Indian,3.1,1
+2,Biryani Blues 2,Bengaluru,Fast Food,3.9,1
+3,Curry House 3,Chandigarh,Healthy,3.3,1
+4,Dosa Corner 4,Bengaluru,Indian,3.1,1
+5,The Food Hub 5,Chandigarh,Healthy,3.0,0
+6,Urban Tadka 6,Jaipur,Indian,3.9,1
+7,The Food Hub 7,Bengaluru,Fast Food,3.6,1
+8,Wok Express 8,Bengaluru,South Indian,3.5,1
+9,Wok Express 9,Jaipur,Healthy,4.0,1
+10,Urban Tadka 10,Chandigarh,South Indian,3.7,1
+11,Spice Route 11,Chandigarh,Fast Food,3.6,0
+12,The Food Hub 12,Bengaluru,Healthy,4.0,1
+13,Burger Barn 13,Pune,South Indian,4.9,1
+14,Curry House 14,Pune,Chinese,4.7,0
+15,Spice Route 15,Noida,Fast Food,3.9,0
+16,Wok Express 16,Gurugram,South Indian,4.9,1
+17,Burger Barn 17,Noida,Indian,4.7,0
+18,Urban Tadka 18,Bengaluru,Indian,4.4,0
+19,The Food Hub 19,Delhi,South Indian,4.6,1
+20,Pizza Point 20,Pune,Fast Food,3.2,1
+21,Burger Barn 21,Pune,Italian,4.3,0
+22,Burger Barn 22,Hisar,Healthy,3.1,1
+23,Curry House 23,Delhi,South Indian,5.0,1
+24,Dosa Corner 24,Gurugram,Fast Food,3.6,1
+25,Spice Route 25,Noida,Indian,3.6,1

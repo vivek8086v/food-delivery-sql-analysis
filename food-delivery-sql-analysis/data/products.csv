@@ -1,0 +1,41 @@
+product_id,restaurant_id,product_name,category,price,is_available
+1,14,Masala Dosa 1,Starter,378.08,1
+2,6,Masala Dosa 2,Main Course,423.51,0
+3,20,Margherita Pizza 3,Dessert,599.44,1
+4,8,Caesar Salad 4,Beverage,336.55,1
+5,15,Hakka Noodles 5,Starter,112.84,1
+6,19,Hakka Noodles 6,Dessert,470.38,0
+7,10,Margherita Pizza 7,Dessert,564.93,1
+8,8,Veg Burger 8,Beverage,403.39,1
+9,1,Veg Burger 9,Beverage,74.7,1
+10,20,Caesar Salad 10,Beverage,519.93,1
+11,20,Dal Makhani 11,Starter,439.24,1
+12,22,Masala Dosa 12,Main Course,593.97,1
+13,10,Caesar Salad 13,Main Course,406.15,1
+14,3,Hakka Noodles 14,Beverage,503.54,1
+15,7,Masala Dosa 15,Beverage,377.89,1
+16,6,Hakka Noodles 16,Dessert,631.08,1
+17,24,Dal Makhani 17,Main Course,341.63,1
+18,5,Margherita Pizza 18,Dessert,631.02,1
+19,3,Veg Burger 19,Main Course,223.39,1
+20,15,Dal Makhani 20,Beverage,409.04,1
+21,4,Margherita Pizza 21,Dessert,84.51,1
+22,20,Margherita Pizza 22,Main Course,438.53,0
+23,23,Hakka Noodles 23,Dessert,137.67,1
+24,2,Hakka Noodles 24,Dessert,137.35,1
+25,18,Masala Dosa 25,Dessert,333.11,0
+26,19,Masala Dosa 26,Dessert,449.85,0
+27,20,Veg Burger 27,Beverage,88.98,1
+28,7,Caesar Salad 28,Dessert,621.32,1
+29,4,Dal Makhani 29,Beverage,105.12,1
+30,7,Veg Biryani 30,Dessert,123.17,1
+31,21,Spring Rolls 31,Main Course,99.34,1
+32,8,Masala Dosa 32,Starter,109.79,1
+33,19,Margherita Pizza 33,Starter,260.56,1
+34,20,Paneer Tikka 34,Beverage,567.88,1
+35,5,Chole Bhature 35,Beverage,533.14,1
+36,22,Paneer Tikka 36,Starter,78.62,1
+37,19,Dal Makhani 37,Main Course,171.06,1
+38,5,Veg Burger 38,Main Course,502.49,0
+39,15,Dal Makhani 39,Main Course,332.16,1
+40,20,Paneer Tikka 40,Beverage,335.66,1
